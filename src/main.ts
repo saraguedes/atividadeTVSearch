@@ -1,4 +1,4 @@
-import renderSearchForm from './components/SearchForm'
+import renderSearchForm from './components/SearchVideo'
 import './style.css'
 
 const $ = document.querySelector.bind(document)
